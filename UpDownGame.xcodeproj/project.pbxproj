@@ -13,6 +13,7 @@
 		BC07EB2C27578C9C00F170EC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC07EB2A27578C9C00F170EC /* Main.storyboard */; };
 		BC07EB2E27578C9D00F170EC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC07EB2D27578C9D00F170EC /* Assets.xcassets */; };
 		BC07EB3127578C9D00F170EC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC07EB2F27578C9D00F170EC /* LaunchScreen.storyboard */; };
+		BC07EB39275F7E1F00F170EC /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC07EB38275F7E1F00F170EC /* Images.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		BC07EB2D27578C9D00F170EC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BC07EB3027578C9D00F170EC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BC07EB3227578C9D00F170EC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BC07EB38275F7E1F00F170EC /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				BC07EB2D27578C9D00F170EC /* Assets.xcassets */,
 				BC07EB2F27578C9D00F170EC /* LaunchScreen.storyboard */,
 				BC07EB3227578C9D00F170EC /* Info.plist */,
+				BC07EB38275F7E1F00F170EC /* Images.xcassets */,
 			);
 			path = UpDownGame;
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BC07EB3127578C9D00F170EC /* LaunchScreen.storyboard in Resources */,
+				BC07EB39275F7E1F00F170EC /* Images.xcassets in Resources */,
 				BC07EB2E27578C9D00F170EC /* Assets.xcassets in Resources */,
 				BC07EB2C27578C9C00F170EC /* Main.storyboard in Resources */,
 			);

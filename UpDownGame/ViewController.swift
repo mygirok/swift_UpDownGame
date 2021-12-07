@@ -14,6 +14,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        reset()
     }
     
     @IBAction func sliderVallueChanged(_ sender: UISlider) {
@@ -26,6 +27,11 @@ class ViewController: UIViewController {
     
     @IBAction func touchUpResetButton(_ sender: UIButton) {
         print("touch uo reset button")
+        reset()
+    }
+    
+    func reset() {
+        print("reset!")
     }
 }
 
